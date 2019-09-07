@@ -1,3 +1,8 @@
+# Changes from the [original](https://github.com/gary-peng/POD) firmware
+- Pomodoro uses 45 minutes work & 14.5 minutes breaks. And 30 seconds are reserved for intermediate blinkings, making it 60 minutes sharp
+- Blinks on reset (aka button push) to visually confirm that the button was pushed 
+
+
 # POD
 The source code and STL files for POD
 
